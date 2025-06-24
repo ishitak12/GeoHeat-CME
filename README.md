@@ -41,7 +41,7 @@ The study focuses on the **College of Military Engineering (CME)**, located near
 The image presents the geographical context of the **College of Military Engineering (CME)**, which is located near Dapodi in the Pune district of Maharashtra, India. The map on the top left highlights the location of Maharashtra within the national boundary of India, while the bottom left inset zooms in on the Pune district. The right portion of the image shows a **high-resolution satellite view** of the CME region, clearly demarcating its extensive infrastructure, vegetation cover, internal road networks, and surrounding urban areas.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ishitak12/GeoHeat-CME/main/cme_image2.jpg" alt="Area Of Interest" width="600"/>
+  <img src="https://github.com/ishitak12/GeoHeat-CME/blob/main/cme_image2.jpg" alt="Area Of Interest" width="600"/>
 </p>
 <p align="center"><b>Figure 2: Annotated Subregions - Water, Solar, Built-up</b></p>
 
