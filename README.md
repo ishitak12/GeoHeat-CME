@@ -33,8 +33,11 @@ The study focuses on the **College of Military Engineering (CME)**, located near
 - **Solar Panel Region** (marked in green): An energy-sensitive zone of interest for temperature forecasting.
 - **Built-up Area** (marked in blue): Densely constructed zones prone to urban heat island effects.
 
-(![Study Area Map](https://github.com/ishitak12/GeoHeat-CME/blob/main/cme_image1.jpg))  
-**Figure 1: Study Area Map**
+
+<p align="center">
+  <img src="https://github.com/ishitak12/GeoHeat-CME/blob/main/cme_image1.jpg" alt="Study Area Map" width="600"/>
+</p>
+<p align="center"><b>Figure 1: Study Area Map</b></p>
 The first image presents the geographical context of the **College of Military Engineering (CME)**, which is located near Dapodi in the Pune district of Maharashtra, India. The map on the top left highlights the location of Maharashtra within the national boundary of India, while the bottom left inset zooms in on the Pune district. The right portion of the image shows a **high-resolution satellite view** of the CME region, clearly demarcating its extensive infrastructure, vegetation cover, internal road networks, and surrounding urban areas.
 
 ![LULC Zones](https://github.com/ishitak12/GeoHeat-CME/blob/main/cme_image2.jpg)  
