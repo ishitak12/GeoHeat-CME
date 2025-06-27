@@ -10,7 +10,7 @@
 **GeoHeat-CME** is a remote sensing and machine learning project focused on understanding and predicting **Land Surface Temperature (LST)** patterns across the **College of Military Engineering (CME)** campus located in Pune, India. The project emphasizes the spatiotemporal behavior of LST across three sub-regions — **Solar Panel Areas, Built-Up Zones, and Water Bodies** — using **satellite data**, **indices** (NDVI, NDBI), and advanced ML models.
 
 ## 🎯 Objectives
-- 🛰️ Extract and preprocess LST from MODIS & Landsat data (2000–2024)
+- 🛰️ Extract and preprocess LST from MODIS & Landsat data (2013–2024)
 - 📍 Define and analyze LST over solar, built-up, and water regions within CME
 - 🌱 Compute NDVI, NDBI, and emissivity
 - 🤖 Predict LST up to 2041 using ML models (SVM, ANN, LSTM, RF)
